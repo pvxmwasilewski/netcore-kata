@@ -12,6 +12,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "KataExcercises.Console", "src\KataExcercises.Console\KataExcercises.Console.xproj", "{CCB4D886-047B-4278-B4A0-DB37C9A03B9F}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "KataExcercises.Tests", "src\KataExcercises.Tests\KataExcercises.Tests.xproj", "{462CE47F-0055-4B0C-96F2-686A056BF76C}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "KataExcercises.StringCalculator", "src\KataExcercises.StringCalculator\KataExcercises.StringCalculator.xproj", "{DEBC2D43-6106-4455-89E7-6A87939A52CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,11 +26,21 @@ Global
 		{CCB4D886-047B-4278-B4A0-DB37C9A03B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCB4D886-047B-4278-B4A0-DB37C9A03B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCB4D886-047B-4278-B4A0-DB37C9A03B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462CE47F-0055-4B0C-96F2-686A056BF76C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462CE47F-0055-4B0C-96F2-686A056BF76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462CE47F-0055-4B0C-96F2-686A056BF76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462CE47F-0055-4B0C-96F2-686A056BF76C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEBC2D43-6106-4455-89E7-6A87939A52CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBC2D43-6106-4455-89E7-6A87939A52CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEBC2D43-6106-4455-89E7-6A87939A52CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEBC2D43-6106-4455-89E7-6A87939A52CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CCB4D886-047B-4278-B4A0-DB37C9A03B9F} = {5761E7C4-181A-442F-AC1A-9656B348AE60}
+		{462CE47F-0055-4B0C-96F2-686A056BF76C} = {5761E7C4-181A-442F-AC1A-9656B348AE60}
+		{DEBC2D43-6106-4455-89E7-6A87939A52CF} = {5761E7C4-181A-442F-AC1A-9656B348AE60}
 	EndGlobalSection
 EndGlobal
